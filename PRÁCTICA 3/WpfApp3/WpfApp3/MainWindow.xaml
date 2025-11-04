@@ -1,0 +1,20 @@
+﻿<Window x:Class="WpfApp3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel Orientation="Vertical" Margin="30">
+            <Label>Usuario...:</Label>
+            <TextBox Width="150" HorizontalAlignment="Left" x:Name="userT"></TextBox>
+
+            <Label>Contraseña...:</Label>
+            <PasswordBox MaxLength="8" Width="150" HorizontalAlignment="Left" x:Name="passwordT"></PasswordBox>
+
+            <Button Height="20" Width="80" HorizontalAlignment="Left" Margin="70, 20, 0, 0" Click="Button_Click">Verificar</Button>
+        </StackPanel>
+    </Grid>
+</Window>

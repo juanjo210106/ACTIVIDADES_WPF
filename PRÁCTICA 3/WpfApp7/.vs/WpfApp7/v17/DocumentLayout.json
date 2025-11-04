@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juanj\\OneDrive\\Escritorio\\REPASO_WPF_UD3\\ACTIVIDADES_WPF\\PR\u00C1CTICA 3\\WpfApp7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA08A5A2-01EF-4C99-8B62-3DEB2A1487C1}|WpfApp7\\WpfApp7.csproj|c:\\users\\juanj\\onedrive\\escritorio\\repaso_wpf_ud3\\actividades_wpf\\pr\u00E1ctica 3\\wpfapp7\\wpfapp7\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA08A5A2-01EF-4C99-8B62-3DEB2A1487C1}|WpfApp7\\WpfApp7.csproj|solutionrelative:wpfapp7\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA08A5A2-01EF-4C99-8B62-3DEB2A1487C1}|WpfApp7\\WpfApp7.csproj|c:\\users\\juanj\\onedrive\\escritorio\\repaso_wpf_ud3\\actividades_wpf\\pr\u00E1ctica 3\\wpfapp7\\wpfapp7\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CA08A5A2-01EF-4C99-8B62-3DEB2A1487C1}|WpfApp7\\WpfApp7.csproj|solutionrelative:wpfapp7\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\juanj\\OneDrive\\Escritorio\\REPASO_WPF_UD3\\ACTIVIDADES_WPF\\PR\u00C1CTICA 3\\WpfApp7\\WpfApp7\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp7\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\juanj\\OneDrive\\Escritorio\\REPASO_WPF_UD3\\ACTIVIDADES_WPF\\PR\u00C1CTICA 3\\WpfApp7\\WpfApp7\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp7\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA3wDIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T21:50:50.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\juanj\\OneDrive\\Escritorio\\REPASO_WPF_UD3\\ACTIVIDADES_WPF\\PR\u00C1CTICA 3\\WpfApp7\\WpfApp7\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp7\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\juanj\\OneDrive\\Escritorio\\REPASO_WPF_UD3\\ACTIVIDADES_WPF\\PR\u00C1CTICA 3\\WpfApp7\\WpfApp7\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp7\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-04T21:50:50.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
