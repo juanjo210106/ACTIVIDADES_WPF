@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alumno\\Desktop\\ACTIVIDADES_WPF\\PR\u00C1CTICA 1\\WpfApp6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDAD54-EF51-4FC6-B53E-60EE3CCAC8DD}|WpfApp6\\WpfApp6.csproj|c:\\users\\alumno\\desktop\\actividades_wpf\\pr\u00E1ctica 1\\wpfapp6\\wpfapp6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DFDAD54-EF51-4FC6-B53E-60EE3CCAC8DD}|WpfApp6\\WpfApp6.csproj|solutionrelative:wpfapp6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDAD54-EF51-4FC6-B53E-60EE3CCAC8DD}|WpfApp6\\WpfApp6.csproj|c:\\users\\alumno\\desktop\\actividades_wpf\\pr\u00E1ctica 1\\wpfapp6\\wpfapp6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0DFDAD54-EF51-4FC6-B53E-60EE3CCAC8DD}|WpfApp6\\WpfApp6.csproj|solutionrelative:wpfapp6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\alumno\\Desktop\\ACTIVIDADES_WPF\\PR\u00C1CTICA 1\\WpfApp6\\WpfApp6\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp6\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\alumno\\Desktop\\ACTIVIDADES_WPF\\PR\u00C1CTICA 1\\WpfApp6\\WpfApp6\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp6\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-04T13:22:11.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Desktop\\ACTIVIDADES_WPF\\PR\u00C1CTICA 1\\WpfApp6\\WpfApp6\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp6\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\alumno\\Desktop\\ACTIVIDADES_WPF\\PR\u00C1CTICA 1\\WpfApp6\\WpfApp6\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp6\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvyEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:22:11.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

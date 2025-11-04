@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\alumno\\Desktop\\ACTIVIDADES_WPF\\PR\u00C1CTICA 1\\WpfApp4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FF04217-E4BC-4A1A-8390-5CE6A239D8E4}|WpfApp4\\WpfApp4.csproj|c:\\users\\alumno\\desktop\\actividades_wpf\\pr\u00E1ctica 1\\wpfapp4\\wpfapp4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7FF04217-E4BC-4A1A-8390-5CE6A239D8E4}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7FF04217-E4BC-4A1A-8390-5CE6A239D8E4}|WpfApp4\\WpfApp4.csproj|c:\\users\\alumno\\desktop\\actividades_wpf\\pr\u00E1ctica 1\\wpfapp4\\wpfapp4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FF04217-E4BC-4A1A-8390-5CE6A239D8E4}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF04217-E4BC-4A1A-8390-5CE6A239D8E4}|WpfApp4\\WpfApp4.csproj|c:\\users\\alumno\\desktop\\actividades_wpf\\pr\u00E1ctica 1\\wpfapp4\\wpfapp4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7FF04217-E4BC-4A1A-8390-5CE6A239D8E4}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\alumno\\Desktop\\ACTIVIDADES_WPF\\PR\u00C1CTICA 1\\WpfApp4\\WpfApp4\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WpfApp4\\MainWindow.xaml",
@@ -34,13 +34,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\alumno\\Desktop\\ACTIVIDADES_WPF\\PR\u00C1CTICA 1\\WpfApp4\\WpfApp4\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WpfApp4\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\alumno\\Desktop\\ACTIVIDADES_WPF\\PR\u00C1CTICA 1\\WpfApp4\\WpfApp4\\MainWindow.xaml.cs",
               "RelativeToolTip": "WpfApp4\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T11:39:18.901Z",
               "EditorCaption": ""
